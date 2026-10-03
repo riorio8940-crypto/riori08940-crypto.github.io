@@ -2,11 +2,11 @@
    Update this profile object to change the portfolio's name, contact details,
    experience, methods, education and certificates. The cards below use it. */
 const portfolio = {
-  name: "M. Beer Mohamed",
-  brandName: "BEER MOHAMED",
-  certificateName: "Beer Mohammed M",
+  name: "M. Peer Mohamed",
+  brandName: "PEER MOHAMED",
+  certificateName: "Peer Mohammed M",
   role: "NDT Multi Technician",
-  heroHeadline: ["M. Beer Mohamed"],
+  heroHeadline: ["M. Peer Mohamed"],
   summary: "ASNT Level II across UT, MT, PT and RT. Supporting process piping, fabrication and plant maintenance through practical inspection experience.",
   email: "Riorio8940@gmail.com",
   phone: "+91 73589 87215",
